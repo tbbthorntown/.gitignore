@@ -1,0 +1,10 @@
+the-bargain-boutique-cms/
+│
+├── docs/
+├── src/
+│   ├── assets/
+│   ├── client/
+│   ├── server/
+│   └── shared/
+└── .github/
+    └── workflows/
